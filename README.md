@@ -1,3 +1,3 @@
-# Test data for VADER
+# Test data for SABER and VADER
 
-This repo contains the test data for the VADER repository.
+This repo contains the test data for the SABER and VADER repositories.
