@@ -1,4 +1,4 @@
-var                                                                    | dimension |             min |             max |         average
+variable                                                               | dimension |             min |             max |         average
 qcl_coef                                                               | (21, 40)  |       0.0604583 |         4.87775 |         0.28229
 bin                                                                    | (21)      |               0 |              20 |              10
 level                                                                  | (40)      |              20 |         11212.7 |         3964.02

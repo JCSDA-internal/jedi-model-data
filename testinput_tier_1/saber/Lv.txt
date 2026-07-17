@@ -1,4 +1,4 @@
-var                                                                    | dimension |             min |             max |         average
+variable                                                               | dimension |             min |             max |         average
 Lv                                                                     | (70, 70)  |               0 |               1 |        0.474784
 level0                                                                 | (70)      |               0 |              69 |            34.5
 level1                                                                 | (70)      |               0 |              69 |            34.5

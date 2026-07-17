@@ -1,4 +1,4 @@
-var                                                                    | dimension    |             min |             max |         average
+variable                                                               | dimension    |             min |             max |         average
 air_pressure_at_surface                                                | (1, 51, 73)  |         82956.1 |          103032 |           94191
 height_above_mean_sea_level_at_surface                                 | (1, 51, 73)  |        -56.7069 |          1775.5 |         717.203
 air_temperature                                                        | (10, 51, 73) |         214.209 |         292.448 |         266.576

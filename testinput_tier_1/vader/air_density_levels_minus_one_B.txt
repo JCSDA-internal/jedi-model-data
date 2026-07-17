@@ -1,4 +1,4 @@
-var                                                                    | dimension    |             min |             max |         average
+variable                                                               | dimension    |             min |             max |         average
 air_density_levels_minus_one                                           | (70, 24, 48) |      2.0256e-05 |         1.48084 |        0.529535
 air_pressure_levels                                                    | (71, 24, 48) |        0.282197 |          103868 |         39138.3
 height_above_mean_sea_level                                            | (70, 24, 48) |         19.9888 |           80000 |           15692

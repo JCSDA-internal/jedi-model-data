@@ -1,4 +1,4 @@
-var                                                                    | dimension    |             min |             max |         average
+variable                                                               | dimension    |             min |             max |         average
 corSqrt_air_upward_absolute_vorticity                                  | (37, 10, 10) |     -0.00664717 |       0.0118409 |     0.000840237
 stdDev_air_upward_absolute_vorticity                                   | (10)         |     1.42584e-05 |     2.35222e-05 |     2.03629e-05
 cov_air_upward_absolute_vorticity                                      | (37, 10, 10) |               0 |      7.9895e-14 |     2.90214e-14

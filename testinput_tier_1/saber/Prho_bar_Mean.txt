@@ -1,4 +1,4 @@
-var                                                                    | dimension  |             min |             max |         average
+variable                                                               | dimension  |             min |             max |         average
 Prho_bar_Mean                                                          | (71, 1, 1) |        0.297423 |         98459.8 |         40042.3
 dummy                                                                  | (1)        |               0 |               0 |               0
 dummy1                                                                 | (1)        |               0 |               0 |               0

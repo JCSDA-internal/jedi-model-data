@@ -1,4 +1,4 @@
-var                                                                    | dimension    |             min |             max |         average
+variable                                                               | dimension    |             min |             max |         average
 air_density_levels_minus_one                                           | (70, 24, 48) |     2.14317e-05 |         1.44592 |        0.527938
 air_potential_temperature                                              | (70, 24, 48) |         237.958 |         5724.65 |         687.427
 air_pressure                                                           | (70, 24, 48) |         0.62261 |          103495 |         38980.1
