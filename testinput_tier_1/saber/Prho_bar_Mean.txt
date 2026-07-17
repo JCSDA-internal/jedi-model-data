@@ -1,0 +1,6 @@
+var                                                                    | dimension  |             min |             max |         average
+Prho_bar_Mean                                                          | (71, 1, 1) |        0.297423 |         98459.8 |         40042.3
+dummy                                                                  | (1)        |               0 |               0 |               0
+dummy1                                                                 | (1)        |               0 |               0 |               0
+grid_crs                                                               | ()         |             N/A |             N/A |             N/A
+level_p                                                                | (71)       |             0.5 |            70.5 |            35.5

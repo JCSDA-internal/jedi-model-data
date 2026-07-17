@@ -1,0 +1,6 @@
+var                                                                    | dimension    |             min |             max |         average
+air_pressure_at_surface                                                | (1, 51, 73)  |         82956.1 |          103032 |           94191
+height_above_mean_sea_level_at_surface                                 | (1, 51, 73)  |        -56.7069 |          1775.5 |         717.203
+air_temperature                                                        | (10, 51, 73) |         214.209 |         292.448 |         266.576
+air_pressure                                                           | (10, 51, 73) |         24084.6 |          102055 |         67399.8
+air_pressure_at_half_levels                                            | (11, 51, 73) |         19431.2 |          103032 |         66461.4

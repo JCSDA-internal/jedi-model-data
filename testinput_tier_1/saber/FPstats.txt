@@ -1,0 +1,10 @@
+var                                                                    | dimension      |             min |             max |         average
+Bin_Number_rho_rho                                                     | (18)           |               1 |              18 |             9.5
+WEIGHT_rho_rho                                                         | (481, 640, 18) |               0 |      0.00321989 |     0.000115501
+grid_crs                                                               | ()             |             N/A |             N/A |             N/A
+latitude_rho                                                           | (481)          |             -90 |              90 |               0
+longitude_rho                                                          | (640)          |               0 |         359.438 |         179.719
+Bin_Number_hP_inc_gP_inc_VerticalCovariance                            | (18)           |               1 |              18 |             9.5
+RegressionFilter_hP_inc_gP_inc                                         | (70, 70, 18)   |        -1.45751 |         2.43529 |      0.00711566
+gP_inc_level_rho                                                       | (70)           |             0.5 |            69.5 |              35
+hP_inc_level_rho                                                       | (70)           |             0.5 |            69.5 |              35

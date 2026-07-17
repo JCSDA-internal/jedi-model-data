@@ -1,0 +1,4 @@
+var                                                                    | dimension  |             min |             max |         average
+LSMASK                                                                 | (180, 360) |               0 |               4 |        0.373488
+lat                                                                    | (180)      |           -89.5 |            89.5 |               0
+lon                                                                    | (360)      |             0.5 |           359.5 |             180
