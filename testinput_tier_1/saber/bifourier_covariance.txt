@@ -1,0 +1,13 @@
+variable                                                               | dimension    |             min |             max |         average
+corSqrt_air_upward_absolute_vorticity                                  | (37, 10, 10) |     -0.00664717 |       0.0118409 |     0.000840237
+stdDev_air_upward_absolute_vorticity                                   | (10)         |     1.42584e-05 |     2.35222e-05 |     2.03629e-05
+cov_air_upward_absolute_vorticity                                      | (37, 10, 10) |               0 |      7.9895e-14 |     2.90214e-14
+corSqrt_air_horizontal_divergence                                      | (37, 10, 10) |     -0.00813005 |       0.0107074 |     0.000782709
+stdDev_air_horizontal_divergence                                       | (10)         |     1.52668e-05 |     1.87502e-05 |     1.79948e-05
+cov_air_horizontal_divergence                                          | (37, 10, 10) |               0 |      5.2874e-14 |     2.00979e-14
+corSqrt_air_temperature_and_log_of_air_pressure_at_surface             | (37, 11, 11) |      -0.0806991 |        0.156551 |     0.000905036
+stdDev_air_temperature_and_log_of_air_pressure_at_surface              | (11)         |     0.000172043 |        0.284467 |         0.24749
+cov_air_temperature_and_log_of_air_pressure_at_surface                 | (37, 11, 11) |    -8.40483e-06 |     0.000341945 |     1.48433e-05
+corSqrt_water_vapor_mixing_ratio_wrt_moist_air                         | (37, 10, 10) |      -0.0149387 |       0.0418451 |      0.00120506
+stdDev_water_vapor_mixing_ratio_wrt_moist_air                          | (10)         |     0.000131895 |        0.000192 |     0.000161166
+cov_water_vapor_mixing_ratio_wrt_moist_air                             | (37, 10, 10) |     1.83469e-13 |     5.74782e-11 |     5.83461e-12

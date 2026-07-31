@@ -1,0 +1,6 @@
+variable                                                               | dimension     |             min |             max |         average
+Bin_Number_PSI_inc_PSI_inc_VerticalCovarianceSpectral                  | (321)         |               0 |             320 |             160
+PSI_inc_Uv_matrix                                                      | (70, 70, 321) |    -2.30774e+07 |     2.81984e+07 |         379.753
+PSI_inc_level_rho_1                                                    | (70)          |             0.5 |            69.5 |              35
+PSI_inc_level_rho_2                                                    | (70)          |             0.5 |            69.5 |              35
+grid_crs                                                               | ()            |             N/A |             N/A |             N/A

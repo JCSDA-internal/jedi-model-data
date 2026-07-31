@@ -1,0 +1,8 @@
+variable                                                               | dimension    |             min |             max |         average
+reg_air_horizontal_divergence_from_balanced_air_pressure               | (37, 10, 10) |    -2.04554e-05 |     2.14889e-05 |      2.9028e-07
+reg_air_temperature_and_log_of_air_pressure_at_surface_from_balanced_air_pressure | (37, 11, 10) |       -0.104514 |        0.166834 |    -0.000130162
+reg_air_temperature_and_log_of_air_pressure_at_surface_from_air_horizontal_divergence | (37, 11, 10) |         -202910 |          278091 |         112.392
+reg_water_vapor_mixing_ratio_wrt_moist_air_from_balanced_air_pressure  | (37, 10, 10) |    -4.66211e-05 |     4.20209e-05 |    -8.36175e-07
+reg_water_vapor_mixing_ratio_wrt_moist_air_from_air_horizontal_divergence | (37, 10, 10) |        -67.0614 |         71.5219 |       -0.268554
+reg_water_vapor_mixing_ratio_wrt_moist_air_from_air_temperature_and_log_of_air_pressure_at_surface | (37, 10, 11) |       -0.929891 |      0.00265092 |      -0.0308962
+fact1                                                                  | (2815)       |    -2.35424e+07 |               0 |         -176806

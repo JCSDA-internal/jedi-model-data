@@ -1,0 +1,13 @@
+variable                                                               | dimension    |             min |             max |         average
+lon                                                                    | (24, 48)     |               0 |           352.5 |          176.25
+lat                                                                    | (24, 48)     |        -84.3765 |         84.3765 |               0
+dimensionless_exner_function_levels_minus_one                          | (70, 24, 48) |       0.0329401 |         1.00998 |        0.650216
+height_above_mean_sea_level                                            | (70, 24, 48) |              20 |           80000 |         15692.9
+height_above_mean_sea_level_levels                                     | (71, 24, 48) |              10 |         83933.3 |           16093
+air_potential_temperature                                              | (70, 24, 48) |         237.671 |         6199.82 |         689.648
+mass_fraction_of_dust_accumulation_aerosol_particles_in_air            | (70, 24, 48) |               0 |      4.9614e-10 |     4.86825e-13
+mass_fraction_of_dust_coarse_aerosol_particles_in_air                  | (70, 24, 48) |               0 |     2.28577e-08 |     2.05946e-11
+number_fraction_of_accumulation_aerosol_particles_in_air               | (70, 24, 48) |               0 |     1.01448e-19 |     9.95437e-23
+number_fraction_of_coarse_aerosol_particles_in_air                     | (70, 24, 48) |               0 |     1.48781e-20 |     1.42544e-23
+mass_fraction_of_dust001_in_air                                        | (70, 24, 48) |               0 |     2.61825e-09 |     2.56909e-12
+mass_fraction_of_dust002_in_air                                        | (70, 24, 48) |               0 |      1.6588e-08 |     1.47502e-11

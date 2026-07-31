@@ -1,0 +1,9 @@
+variable                                                               | dimension    |             min |             max |         average
+air_potential_temperature                                              | (70, 24, 48) |         239.698 |         6233.32 |         687.492
+air_pressure_levels_minus_one                                          | (70, 24, 48) |          1.1725 |          103868 |         39697.4
+cloud_ice_mixing_ratio_wrt_moist_air_and_condensed_water               | (70, 24, 48) |               0 |     0.000207924 |     2.94981e-06
+cloud_liquid_water_mixing_ratio_wrt_moist_air_and_condensed_water      | (70, 24, 48) |               0 |     0.000762921 |     2.67005e-06
+dry_air_density_levels_minus_one                                       | (70, 24, 48) |      2.0256e-05 |         1.48046 |        0.527698
+height_above_mean_sea_level                                            | (70, 24, 48) |         19.9888 |           80000 |           15692
+height_above_mean_sea_level_levels                                     | (71, 24, 48) |         9.98877 |         83933.3 |         16092.3
+water_vapor_mixing_ratio_wrt_moist_air_and_condensed_water             | (70, 24, 48) |     3.36065e-07 |       0.0192126 |      0.00169945

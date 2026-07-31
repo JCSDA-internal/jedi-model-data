@@ -1,0 +1,22 @@
+variable                                                               | dimension     |             min |             max |         average
+Bin_Number_PSI_inc_PSI_inc_VerticalCovarianceSpectral                  | (321)         |               0 |             320 |             160
+PSI_inc_Uv_matrix                                                      | (70, 70, 321) |    -2.30774e+07 |     2.81984e+07 |         379.753
+PSI_inc_level_rho_1                                                    | (70)          |             0.5 |            69.5 |              35
+PSI_inc_level_rho_2                                                    | (70)          |             0.5 |            69.5 |              35
+grid_crs                                                               | ()            |             N/A |             N/A |             N/A
+Bin_Number_CHI_inc_CHI_inc_VerticalCovarianceSpectral                  | (321)         |               0 |             320 |             160
+CHI_inc_Uv_matrix                                                      | (70, 70, 321) |    -1.62998e+07 |     4.12017e+07 |         352.506
+CHI_inc_level_rho_1                                                    | (70)          |             0.5 |            69.5 |              35
+CHI_inc_level_rho_2                                                    | (70)          |             0.5 |            69.5 |              35
+Bin_Number_aP_inc_aP_inc_VerticalCovarianceSpectral                    | (321)         |               0 |             320 |             160
+aP_inc_Uv_matrix                                                       | (70, 70, 321) |        -90.3083 |         119.473 |     -0.00216786
+aP_inc_level_rho_1                                                     | (70)          |             0.5 |            69.5 |              35
+aP_inc_level_rho_2                                                     | (70)          |             0.5 |            69.5 |              35
+Bin_Number_MU_inc_MU_inc_VerticalCovarianceSpectral                    | (321)         |               0 |             320 |             160
+MU_inc_Uv_matrix                                                       | (70, 70, 321) |        -2.87149 |         3.20722 |    -0.000370879
+MU_inc_level_theta_1                                                   | (70)          |               1 |              70 |            35.5
+MU_inc_level_theta_2                                                   | (70)          |               1 |              70 |            35.5
+Bin_Number_DUSTt_inc_Uv_matrix                                         | (320)         |               0 |             319 |           159.5
+DUSTt_inc_Uv_matrix                                                    | (70, 70, 320) |     -5.2087e-08 |     3.61574e-08 |    -7.01658e-11
+DUSTt_inc_level_rho1                                                   | (70)          |             0.5 |            69.5 |              35
+DUSTt_inc_level_rho2                                                   | (70)          |             0.5 |            69.5 |              35

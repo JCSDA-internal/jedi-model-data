@@ -1,0 +1,5 @@
+variable                                                               | dimension  |             min |             max |         average
+level_w                                                                | (71)       |               0 |              70 |              35
+dummy1                                                                 | (1)        |               0 |               0 |               0
+dummy                                                                  | (1)        |               0 |               0 |               0
+Ptheta_bar_Mean                                                        | (71, 1, 1) |        0.887274 |         98724.4 |         40759.5
