@@ -4,7 +4,7 @@
   hx=6,hy=6,hz=12,p=2,
   mgbf_line=.true., mgbf_proc=5,
   lm_a=65,lm=32,km2=0,km3=3,
-  coef_normalization_const=2.831
+  coef_normalization_const=5.09966
   nxPE=2,nyPE=2,im_filt=24,jm_filt=24,
   nm0 = 48,
   mm0 = 48,
